@@ -1,0 +1,14 @@
+C:\Users\hesha\Documents\CSharp\chapter1-Guitars\chapter1-Guitars\bin\Debug\net8.0\chapter1-Guitars.exe
+C:\Users\hesha\Documents\CSharp\chapter1-Guitars\chapter1-Guitars\bin\Debug\net8.0\chapter1-Guitars.deps.json
+C:\Users\hesha\Documents\CSharp\chapter1-Guitars\chapter1-Guitars\bin\Debug\net8.0\chapter1-Guitars.runtimeconfig.json
+C:\Users\hesha\Documents\CSharp\chapter1-Guitars\chapter1-Guitars\bin\Debug\net8.0\chapter1-Guitars.dll
+C:\Users\hesha\Documents\CSharp\chapter1-Guitars\chapter1-Guitars\bin\Debug\net8.0\chapter1-Guitars.pdb
+C:\Users\hesha\Documents\CSharp\chapter1-Guitars\chapter1-Guitars\obj\Debug\net8.0\chapter1-Guitars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hesha\Documents\CSharp\chapter1-Guitars\chapter1-Guitars\obj\Debug\net8.0\chapter1-Guitars.AssemblyInfoInputs.cache
+C:\Users\hesha\Documents\CSharp\chapter1-Guitars\chapter1-Guitars\obj\Debug\net8.0\chapter1-Guitars.AssemblyInfo.cs
+C:\Users\hesha\Documents\CSharp\chapter1-Guitars\chapter1-Guitars\obj\Debug\net8.0\chapter1-Guitars.csproj.CoreCompileInputs.cache
+C:\Users\hesha\Documents\CSharp\chapter1-Guitars\chapter1-Guitars\obj\Debug\net8.0\chapter1-Guitars.dll
+C:\Users\hesha\Documents\CSharp\chapter1-Guitars\chapter1-Guitars\obj\Debug\net8.0\refint\chapter1-Guitars.dll
+C:\Users\hesha\Documents\CSharp\chapter1-Guitars\chapter1-Guitars\obj\Debug\net8.0\chapter1-Guitars.pdb
+C:\Users\hesha\Documents\CSharp\chapter1-Guitars\chapter1-Guitars\obj\Debug\net8.0\chapter1-Guitars.genruntimeconfig.cache
+C:\Users\hesha\Documents\CSharp\chapter1-Guitars\chapter1-Guitars\obj\Debug\net8.0\ref\chapter1-Guitars.dll
